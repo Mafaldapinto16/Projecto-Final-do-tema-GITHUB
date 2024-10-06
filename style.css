@@ -1,0 +1,180 @@
+body{
+	
+	font-size: 1rem;
+	background:#c2b5a6;
+	overflow-x: hidden;
+	
+}
+.page-header{
+	margin-left: 500px;
+	padding: 20px;
+	font-size: 20px;
+	
+	
+
+}
+
+.carousel-inner{
+	margin-left: 500px;
+	
+
+}
+
+main{
+	margin-bottom: 500px;
+	
+	
+}
+p{
+	color: white;
+}
+.container-imagens{
+	margin-left: 200px;
+}
+
+
+#footer{
+	padding: 20px;
+	background-color: #BA7573;
+	font-size: 15px;
+	height: 100%;
+}
+footer h2{
+	font-size: 20px;
+}
+footer a{
+	text-decoration: none;
+	color: white;
+}
+footer a:hover{
+	color: #E9150E;
+}
+
+.useful-links{
+	text-decoration: none;
+	padding: 20px;
+	line-height: 20px;
+	
+}
+
+li{
+	text-decoration: none;
+	list-style-type: none;
+
+}
+.social-links{
+	text-decoration: none;
+	padding: 20px;
+	line-height: 40px;
+	margin-right: -50px;
+	margin-left: 10px;
+	
+}
+.pagamentos{
+	text-decoration: none;
+	padding: 20px;
+	line-height: 40px;
+	border-radius: 50%;
+	margin-right: -100px;
+	margin-left: 100px;
+
+}
+
+.copy{
+	color: white;
+	text-align: center;
+}
+
+.btn-default{
+	background-color: #A4BBB3;
+	color: white;
+	border-color: white;
+}
+.btn-danger{
+	background-color: #576358;
+	color:whitesmoke;
+	border-color: white;
+}
+form{
+	color:white ;
+}
+.btn-outline-danger{
+	color:whitesmoke;
+	background-color: #576358;
+	border-color:white;
+	margin-left: 110px;
+	
+}
+h1{
+	color: #BA7573;
+}
+legend{
+	color:#BA7573;
+}
+
+.card{
+	background-color: #BA7573;
+	color: whitesmoke;
+
+}
+
+.card-title{
+	color: #78302A;
+	font-size: 25px;
+}
+h5{
+	color:#78302A;
+}
+
+.container-bela{
+	margin-left: 20px;
+}
+
+header{
+	color: #a8976d;
+	font-size: 30px;
+	margin-left: 500px;
+	font-style: italic;
+}
+.card-quebrantoes{
+	background-color: whitesmoke;
+	margin-top: -300px;
+	margin-left: 500px;
+	font-size: 15px;
+	
+}
+.card-text-quebrantoes{
+	color:#78302A;
+}
+.card-inauguracao{
+	background-color: whitesmoke;
+	margin-top: -80px;
+	margin-left: 900px;
+	font-size: 15px;
+}
+.card-text-inaug{
+	color:#78302A;
+}
+
+
+.anivs{
+	color:#46372E;
+	margin-left: 150px;
+	font-size: 20px;
+}
+
+.anivs-fotos{
+	margin-left: 20px;
+}
+
+.card-header-catalogo{
+	color: #8b433c;
+
+}
+.card-title-catalogo{
+	color:#78302A
+}
+
+.catalogop{
+	color: #BA7573;
+}
